@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basmalas-kitchen/static/css/main.74759af5.css",
+    "main.js": "/basmalas-kitchen/static/js/main.b65792c7.js",
+    "index.html": "/basmalas-kitchen/index.html",
+    "main.74759af5.css.map": "/basmalas-kitchen/static/css/main.74759af5.css.map",
+    "main.b65792c7.js.map": "/basmalas-kitchen/static/js/main.b65792c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74759af5.css",
+    "static/js/main.b65792c7.js"
+  ]
+}
