@@ -8,7 +8,7 @@ export default function Header() {
     <header className="site-header">
       <div className="container bar">
         <Link className="logo" to="/">
-          <span className="logo-mark" lang="ar" aria-hidden="true">م</span>
+          <span className="logo-mark" lang="ar" aria-hidden="true">B</span>
           <span>Basmala's Kitchen</span>
         </Link>
         <nav aria-label="Main">
