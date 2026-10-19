@@ -1,0 +1,102 @@
+{
+  "recipes": [
+    {
+      "id": 1, "name": "Koshari", "arabicName": "كشري", "popular": true,
+      "categories": ["Traditional Favorites", "Vegetarian", "Main Dishes"],
+      "description": "Egypt's street-food icon: lentils, rice, pasta and chickpeas under spicy tomato sauce and crispy onions.",
+      "image": "assets/kushari.jpg", "prepMinutes": 30, "cookMinutes": 60, "servings": 4,
+      "ingredients": ["1 cup brown lentils", "1 cup short-grain rice", "1 cup small pasta (elbow or ditalini)", "1 can (400 g) chickpeas, drained", "3 large onions, thinly sliced", "Oil for frying", "400 g tomato passata", "3 garlic cloves, minced", "2 tbsp vinegar", "1 tsp ground cumin", "Chili flakes and salt, to taste"],
+      "steps": ["Fry the sliced onions in oil until deep golden and crisp. Drain on paper and keep some of the oil.", "Boil the lentils for about 20 minutes until just tender, then drain.", "Cook the rice with a spoonful of onion oil and salt. Stir in the lentils and let them steam together, covered.", "Boil the pasta until al dente and drain.", "For the sauce, fry the garlic in oil, add cumin, chili and passata, and simmer 15 minutes. Stir in the vinegar and salt.", "Layer rice and lentils, pasta and chickpeas on a plate. Top with sauce and the crispy onions."]
+    },
+    {
+      "id": 2, "name": "Ful Medames", "arabicName": "فول مدمس", "popular": true,
+      "categories": ["Breakfast", "Vegetarian", "Traditional Favorites"],
+      "description": "Slow-cooked fava beans mashed with olive oil, garlic and lemon. The classic Egyptian breakfast.",
+      "image": "assets/fool.jpg", "prepMinutes": 10, "cookMinutes": 20, "servings": 2,
+      "ingredients": ["1 can (400 g) cooked fava beans", "2 tbsp olive oil", "2 garlic cloves, crushed", "Juice of 1 lemon", "1/2 tsp ground cumin", "1 small tomato, diced", "Chopped parsley and salt, to taste"],
+      "steps": ["This is a quick version using canned beans. Traditional ful is cooked slowly for hours.", "Warm the beans with their liquid and the cumin for 10 minutes.", "Mash roughly with a fork, leaving some beans whole.", "Stir in garlic, lemon juice and salt.", "Serve topped with olive oil, tomato and parsley, with warm bread."]
+    },
+    {
+      "id": 3, "name": "Taameya", "arabicName": "طعمية", "popular": true,
+      "categories": ["Breakfast", "Vegetarian", "Traditional Favorites"],
+      "description": "Egyptian falafel made from fava beans, with a bright green herb centre.",
+      "image": "assets/ta3mya.jpg", "prepMinutes": 20, "cookMinutes": 15, "servings": 4,
+      "ingredients": ["2 cups dried split fava beans, soaked overnight", "1 bunch each of parsley, coriander and dill", "1 onion", "4 garlic cloves", "1 tsp ground cumin", "1 tsp ground coriander", "Salt, to taste", "Sesame seeds for coating", "Oil for frying"],
+      "steps": ["Drain the soaked beans well. Do not cook them.", "Blend the beans with herbs, onion, garlic and spices into a coarse, green paste. Season with salt.", "Rest the mixture for 15 minutes, then shape into small patties and press sesame seeds on top.", "Fry in hot oil for 2 to 3 minutes per side until deep golden.", "Serve in bread with salad and tahini."]
+    },
+    {
+      "id": 4, "name": "Molokhia", "arabicName": "ملوخية", "popular": true,
+      "categories": ["Soups", "Traditional Favorites"],
+      "description": "A silky green stew of jute leaves, garlic and coriander, served over rice with chicken.",
+      "image": "assets/molokhya.jpg", "prepMinutes": 15, "cookMinutes": 40, "servings": 4,
+      "ingredients": ["1 L chicken stock", "400 g chopped molokhia (frozen works well)", "6 garlic cloves, minced", "1 tbsp ground coriander", "2 tbsp ghee or butter", "Salt, to taste", "Cooked chicken pieces and rice, to serve"],
+      "steps": ["Bring the stock to a gentle simmer.", "Add the molokhia and cook for 10 minutes without a hard boil.", "Fry the garlic in ghee until golden, add the coriander, and stir the mixture into the pot (this is called the ta'leya).", "Simmer 5 more minutes and season with salt.", "Serve with rice and chicken, with bread on the side."]
+    },
+    {
+      "id": 5, "name": "Egyptian Fattah", "arabicName": "فتة", "popular": false,
+      "categories": ["Main Dishes", "Traditional Favorites"],
+      "description": "Layers of crisp bread, rice and tender meat with garlicky tomato sauce. A festive meal.",
+      "image": "assets/fattah.jpg", "prepMinutes": 30, "cookMinutes": 90, "servings": 6,
+      "ingredients": ["700 g beef or lamb on the bone", "2 cups rice", "3 pieces flatbread", "6 garlic cloves", "3 tbsp vinegar", "2 cups tomato sauce", "2 tbsp ghee", "Salt, bay leaf and cardamom for the stock"],
+      "steps": ["Simmer the meat with bay leaf, cardamom and salt until tender, about 80 minutes. Keep the stock.", "Cook the rice in some of the stock.", "Toast the torn bread in the oven until crisp.", "Fry garlic in ghee, add vinegar and tomato sauce, and simmer for 10 minutes.", "Layer bread, rice and meat, moisten with a little stock, and pour the sauce on top."]
+    },
+    {
+      "id": 6, "name": "Macaroni Bechamel", "arabicName": "مكرونة بالبشاميل", "popular": false,
+      "categories": ["Main Dishes", "Traditional Favorites"],
+      "description": "Baked pasta layered with spiced minced beef and creamy béchamel, an Egyptian family favorite.",
+      "image": "assets/bashamel.jpg", "prepMinutes": 30, "cookMinutes": 45, "servings": 6,
+      "ingredients": ["500 g penne", "400 g minced beef", "1 onion, chopped", "2 tbsp tomato paste", "80 g butter", "80 g flour", "1 L milk", "Pinch of nutmeg", "Salt and pepper"],
+      "steps": ["Boil the pasta until al dente and spread half in a baking dish.", "Brown the beef with the onion, stir in tomato paste, salt and pepper, and spread over the pasta.", "Cover with the remaining pasta.", "For the béchamel, melt the butter, stir in the flour, then whisk in the milk until thick. Add nutmeg and salt.", "Pour over the pasta and bake at 180°C for about 25 to 30 minutes until golden."]
+    },
+    {
+      "id": 7, "name": "Roz Meammar", "arabicName": "رز معمر", "popular": false,
+      "categories": ["Traditional Favorites", "Main Dishes"],
+      "description": "Creamy baked rice finished in a clay pot with butter and cream.",
+      "image": "assets/me3amar.jpg", "prepMinutes": 10, "cookMinutes": 40, "servings": 4,
+      "ingredients": ["1 cup short-grain rice, rinsed", "1 1/2 cups hot chicken stock", "1 cup milk", "1/2 cup cream", "3 tbsp butter", "Salt, to taste"],
+      "steps": ["Heat the oven to 180°C.", "Melt half the butter in a clay pot or small oven dish and stir in the rice.", "Add the hot stock, milk and salt and bring to a simmer on the stove.", "Cover and bake for about 25 minutes until the rice has absorbed the liquid.", "Pour over the cream, dot with the remaining butter, and bake uncovered for 10 minutes until golden."]
+    },
+    {
+      "id": 8, "name": "Egyptian Lentil Soup", "arabicName": "شوربة عدس", "popular": false,
+      "categories": ["Soups", "Vegetarian"],
+      "description": "Smooth, cumin-scented yellow lentil soup served with lemon and toasted bread.",
+      "image": "assets/3ads.jpg", "prepMinutes": 10, "cookMinutes": 35, "servings": 4,
+      "ingredients": ["1 1/2 cups yellow or red lentils, rinsed", "1 onion, chopped", "1 carrot, chopped", "3 garlic cloves", "1 tsp ground cumin", "6 cups water", "2 tbsp oil", "Lemon wedges and salt"],
+      "steps": ["Fry the onion in oil until soft, then add garlic, carrot and cumin.", "Add the lentils and water, bring to a boil, and simmer for 25 minutes.", "Blend until smooth and season with salt.", "Serve hot with a squeeze of lemon."]
+    },
+    {
+      "id": 9, "name": "Basbousa", "arabicName": "بسبوسة", "popular": true,
+      "categories": ["Desserts", "Traditional Favorites"],
+      "description": "Soft semolina cake soaked in sugar syrup and topped with an almond.",
+      "image": "assets/basbosa.jpg", "prepMinutes": 15, "cookMinutes": 35, "servings": 12,
+      "ingredients": ["2 cups fine semolina", "1 cup sugar", "1 cup plain yogurt", "1/2 cup melted butter or ghee", "1/2 cup desiccated coconut", "1 tsp baking powder", "Whole almonds", "Syrup: 1 cup sugar, 1 cup water, 1 tbsp lemon juice"],
+      "steps": ["Heat the oven to 180°C and grease a baking tray.", "Mix semolina, sugar, coconut and baking powder, then stir in yogurt and butter.", "Spread in the tray, cut into diamonds and press an almond into each piece.", "Bake for about 30 to 35 minutes until golden.", "Boil the syrup ingredients for 8 minutes and let it cool. Pour over the hot cake and let it soak."]
+    },
+    {
+     "id": 12, "name": "Grilled Kofta", "arabicName": "كفتة مشوية", "popular": true,
+      "categories": ["Main Dishes"],
+      "description": "Juicy minced beef skewers with parsley, onion and warm spices, grilled over charcoal or in a pan.",
+      "image": "assets/kofta.jpg", "prepMinutes": 20, "cookMinutes": 15, "servings": 4,
+      "ingredients": ["500 g minced beef (some fat helps)", "1 onion, grated and squeezed dry", "1 cup chopped parsley", "1 tsp salt", "1/2 tsp black pepper", "1/2 tsp allspice", "Pinch of cinnamon"],
+      "steps": ["Knead all the ingredients together for a few minutes until the mixture is sticky.", "Rest it in the fridge for 30 minutes if you have time.", "Shape around skewers into long fingers.", "Grill or pan-sear for 10 to 15 minutes, turning, until cooked through.", "Serve with rice, tahini salad and bread."]    },
+    {
+      "id": 11, "name": "Roz Bel Laban", "arabicName": "رز بلبن", "popular": false,
+      "categories": ["Desserts"],
+      "description": "Creamy Egyptian rice pudding with a touch of vanilla and cinnamon.",
+      "image": "assets/rozblban.jpg", "prepMinutes": 5, "cookMinutes": 35, "servings": 6,
+      "ingredients": ["1/2 cup short-grain rice, rinsed", "1 L milk", "1/2 cup sugar", "1 tsp vanilla", "Ground cinnamon, to serve"],
+      "steps": ["Simmer the rice in 1 cup of water for 10 minutes until soft.", "Add the milk and cook on low heat, stirring often, for 20 to 25 minutes until thick.", "Stir in the sugar and vanilla for the last 5 minutes.", "Pour into bowls, chill if you like, and dust with cinnamon."]
+    },
+    {
+      "id": 10, "name": "Om Ali", "arabicName": "أم علي", "popular": false,
+      "categories": ["Desserts", "Traditional Favorites"],
+      "description": "Warm bread-pudding of flaky pastry, milk, nuts and raisins, baked until bubbling.",
+      "image": "assets/om ali.jpg", "prepMinutes": 10, "cookMinutes": 25, "servings": 6,
+      "ingredients": ["200 g puff pastry, baked and broken into pieces", "3 cups milk", "1/2 cup cream", "1/2 cup sugar", "1/2 cup mixed nuts", "1/4 cup raisins", "1/4 cup desiccated coconut", "1 tsp vanilla"],
+      "steps": ["Heat the oven to 200°C.", "Layer pastry pieces, nuts, raisins and coconut in a baking dish.", "Warm the milk with the sugar and vanilla and pour it over until the pastry is soaked.", "Pour the cream on top.", "Bake for about 15 to 20 minutes until golden and bubbling. Serve warm."]
+  }
+  ]
+}
+
+
+
